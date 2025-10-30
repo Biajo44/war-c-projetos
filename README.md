@@ -12,3 +12,8 @@ Bem-vindo(a) à trilogia *WAR em C*, com três níveis de desafio:
 | 🔵 Mestre | waraventureiro.c | Jogo completo com missões automáticas e territórios pré-definidos. |
 <br>
 | 🔴 Herói | warmestre.c | (em desenvolvimento) Adiciona reforços, pontuação e fases de conquista. |
+<br>
+<br>
+Criador por Joelma
+<br>
+Feito em linguagem C como projeto de aprendizado e desafio lógico.
