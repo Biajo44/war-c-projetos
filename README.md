@@ -7,11 +7,11 @@ Bem-vindo(a) à trilogia *WAR em C*, com três níveis de desafio:
 <br>
 | Nível | Arquivo | Descrição |
 <br>
-| 🟢 Aventureiro | desafiowar.c | Crie seu próprio mapa e simule batalhas simples. |
+| 🟢 Novato | desafiowar.c | criação das equipes. |
 <br>
-| 🔵 Mestre | waraventureiro.c | Jogo completo com missões automáticas e territórios pré-definidos. |
+| 🔵 Aventureiro | waraventureiro.c | simulado de ataque|
 <br>
-| 🔴 Herói | warmestre.c | (em desenvolvimento) Adiciona reforços, pontuação e fases de conquista. |
+| 🔴 Mestre | warmestre.c |  missões automáticas e simulado de ataque a territórios. |
 <br>
 <br>
 Criador por Joelma
